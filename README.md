@@ -1,3 +1,5 @@
+# VIP Auctions
+
 Paper, Folia, and ShreddedPaper auction house by **VIP Plugins**. Buy Now, bidding, item-frame booths, taxes, featured listings, and NBT previews.
 **Version:** Alpha-1.2.0  
 **Tested Minecraft Versions:** 1.21.11  
@@ -20,7 +22,7 @@ Paper, Folia, and ShreddedPaper auction house by **VIP Plugins**. Buy Now, biddi
 - Language files (`lang/en.yml`)
 - Folia / ShreddedPaper region-safe
 ## Install
-1. Put `AuctionHouse-Alpha-1.2.0.jar` in your server `plugins` folder.
+1. Put `AuctionHouse-Alpha-1.0.0.jar` in your server `plugins` folder.
 2. Optional: install [Vault](https://www.spigotmc.org/resources/vault.34315/) plus an economy plugin (EssentialsX, CMI, etc.).
 3. Restart the server.
 4. Edit `plugins/AuctionHouse/config.yml` and `plugins/AuctionHouse/lang/en.yml`.
