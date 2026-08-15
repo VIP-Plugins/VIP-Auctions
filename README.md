@@ -79,4 +79,4 @@ Players get use, sell, buy, bid, and collect by default.
 
 ## License
 
-MIT License. See `LICENSE`.
+Copyright (c) 2026 VIP Plugins. All rights reserved. You may use the official plugin on your server. You may not modify, decompile, or redistribute it. See `LICENSE`.
